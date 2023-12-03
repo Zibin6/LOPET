@@ -44,7 +44,7 @@ fprintf('\nStart pose tracking');
 
      else
 
-         fprintf('\nThe demo ends here.');
+         fprintf('\nDue to the size restrictions for file uploads. The demo ends here.');
 
          return;
 
