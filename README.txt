@@ -16,9 +16,7 @@ The paper is currently under review and will be made public soon.
 
 ## Dataset
 
-The event-based moving object dataset can be found at:
- 
-https://pan.baidu.com/s/1wOTAbeAUkNjK4Gnj8ZazaA?pwd=ztwm 
+The event-based moving object dataset will be made public.
 
 
 ## Contact
