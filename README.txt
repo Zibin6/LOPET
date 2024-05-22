@@ -4,23 +4,16 @@ The demo code has been validated on MATLAB 2019. Due to file size limitations,
 only a portion of the testing events were uploaded for demonstration purposes.
 
 Details of the method can be found in our paper:
-
 Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera
-
 Zibin Liu, Banglei Guan, Yang Shang, Qifeng Yu, and Laurent Kneip.
-
 The paper is currently under review and will be made public soon.
 
 2023/12/01
 
-
 ## Dataset
-
 The event-based moving object dataset will be made public.
 
-
 ## Contact
-
 Please contact Banglei Guan <guanbanglei12@nudt.edu.cn> or any of the other authors for any inquiries or requests.
 
 
