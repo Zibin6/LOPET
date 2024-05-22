@@ -1,14 +1,16 @@
 
 This repository contains the demo code of Our event-based object pose tracking method.
-The demo code has been validated on MATLAB 2019. Due to file size limitations, 
-only a portion of the testing events were uploaded for demonstration purposes.
+
+Firstly, extract the "event.zip" file to the current directory, and then execute the "main_demo.m".
+
+Due to file size limitations, only a portion of the testing events are uploaded for demonstration purposes.
 
 Details of the method can be found in our paper:
 Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera
 Zibin Liu, Banglei Guan, Yang Shang, Qifeng Yu, and Laurent Kneip.
 The paper is currently under review and will be made public soon.
 
-2023/12/01
+2024/05/22
 
 ## Dataset
 The event-based moving object dataset will be made public.
