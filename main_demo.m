@@ -34,7 +34,7 @@ pose_cur=[R_opt,t_opt_];
 fprintf('Start pose tracking...\n');
 j=1;
 
-for i=1:400
+for i=1:200
 
     event_window_name=['.\events\',num2str(i),'.mat'];
     load(event_window_name);
