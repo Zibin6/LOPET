@@ -1,7 +1,5 @@
 
-This repository contains the demo code of Our-MM method and dataset.
-
-Demo code has been validated on MATLAB 2019.
+This repository contains the demo code of Our event-based object pose tracking method. The demo code has been validated on MATLAB 2019. Due to file size limitations, only a portion of the testing events were uploaded for demonstration purposes.
 
 Details of the method can be found in our paper:
 
