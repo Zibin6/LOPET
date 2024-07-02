@@ -12,8 +12,6 @@ The paper is currently under review and will be made public soon.
 
 2024/05/22
 
-## Dataset
-The event-based moving object dataset will be made public.
 
 ## Contact
 Please contact Banglei Guan <guanbanglei12@nudt.edu.cn> or any of the other authors for any inquiries or requests.
