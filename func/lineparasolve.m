@@ -1,5 +1,5 @@
 function [line] = lineparasolve(point)
-% 根据输入的点计算直线参数 a b c
+
   for i=1:size(point,2)/2
  
       line(1:3,i)= cross(point(1:3,i),point(1:3,(size(point,2)/2+i)),1);
