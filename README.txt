@@ -1,5 +1,5 @@
 
-This repository contains the demo code of Our event-based object pose tracking method.
+This repository provides a simplified MATLAB code of Our event-based object pose tracking method.
 
 Firstly, extract the "event.zip" file to the current directory, and then execute the "main_demo.m".
 
