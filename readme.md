@@ -10,15 +10,15 @@ Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera
 
 ## Cite
 
-@ARTICLE{10645740,
-  author={Liu, Zibin and Guan, Banglei and Shang, Yang and Yu, Qifeng and Kneip, Laurent},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TIP.2024.3445736}}
+@ARTICLE{10645740,  
+  author={Liu, Zibin and Guan, Banglei and Shang, Yang and Yu, Qifeng and Kneip, Laurent},  
+  journal={IEEE Transactions on Image Processing},   
+  title={Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera},  
+  year={2024},  
+  volume={},  
+  number={},  
+  pages={1-1},  
+  doi={10.1109/TIP.2024.3445736}}  
 
 
 ## Contact
