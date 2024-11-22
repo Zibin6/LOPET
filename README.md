@@ -15,11 +15,13 @@ Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera
   journal={IEEE Transactions on Image Processing},   
   title={Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera},  
   year={2024},  
-  volume={},  
-  number={},  
-  pages={1-1},  
+  volume={33},  
+  pages={4765-4780},  
   doi={10.1109/TIP.2024.3445736}}  
 
 
 ## Contact
+Please contact Zibin Liu <liuzibin19@nudt.edu.cn> to obtain the dataset for academic purposes. 
 Please contact Banglei Guan <guanbanglei12@nudt.edu.cn> or any of the other authors for any inquiries or requests.
+
+
